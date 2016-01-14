@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="company_code">
+        {"com":"顺丰","no":"sf"},
+        {"com":"申通","no":"sto"},
+        {"com":"圆通","no":"yt"}
+        ,{"com":"韵达","no":"yd"},
+        {"com":"天天","no":"tt"},
+        {"com":"EMS","no":"ems"},
+        {"com":"中通","no":"zto"},
+        {"com":"汇通","no":"ht"},
+        {"com":"全峰","no":"qf"},
+        {"com":"德邦","no":"db"}],
+        <item>sf</item>
+        <item>sto</item>
+        <item>yt</item>
+        <item>yd</item>
+        <item>tt</item>
+        <item>ems</item>
+        <item>zto</item>
+        <item>ht</item>
+        <item>qf</item>
+        <item>db</item>
+    </string-array>
+    <string-array name="company_name">
+        <item>顺丰</item>
+        <item>申通</item>
+        <item>圆通</item>
+        <item>韵达</item>
+        <item>天天</item>
+        <item>邮政ems</item>
+        <item>中通</item>
+        <item>汇通</item>
+        <item>全峰</item>
+        <item>德邦</item>
+    </string-array>
+</resources>
