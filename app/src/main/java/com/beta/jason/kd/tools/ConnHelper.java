@@ -14,10 +14,14 @@ import com.lidroid.xutils.http.client.HttpRequest.HttpMethod;
  * Created by Jason on 1/4/2016.
  * http://v.juhe.cn/exp/index?key=key&com=sf&no=575677355677
  */
+
+/**
+ * juhe's api is no longer be supported
+ */
 public class ConnHelper {
     static String KEY = "eae61b766244e496073b39b7a3d9fa2d";
 //    static String COM_HOST = "http://v.juhe.cn/exp/com";
-    static String API_HOST = "http://v.juhe.cn/exp/index";
+    static String API_HOST = "http://avatar";
     static HttpUtils httpUtils = new HttpUtils();
     public static void search(final String com,final String no, final Handler handler){
         StringBuffer sb = new StringBuffer();
